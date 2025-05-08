@@ -10,4 +10,4 @@
 - Dark/Light mode
 - Social icons
 
-Try this [here](https://ai-tts-converter.vercel.app/)
+Try this [here](https://tts.prasetia.me/)
